@@ -6,7 +6,7 @@ git clone git@github.com:aquarell-dev/bash-comment-extractor.git
 ```
 
 ```bash
-cd git@github.com:aquarell-dev/bash-comment-extractor.git
+cd bash-comment-extractor
 ```
 
 ```bash
@@ -14,4 +14,4 @@ source ./comment-extractor.sh
 ```
 
 ## Особенности
-__У меня стоит `zshell`, поэтому я делал не с `.bashrc`, а с `.zshrc`
+__У меня стоит `zshell`, поэтому я делал не с `.bashrc`, а с `.zshrc`__
